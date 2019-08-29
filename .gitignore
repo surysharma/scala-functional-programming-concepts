@@ -1,0 +1,10 @@
+compiler.xml
+encodings.xml
+hydra.xml
+Maven*.xml
+misc.xml
+modules.xml
+vcs.xml
+sbt.xml
+*.iml
+scala_compiler.xml
